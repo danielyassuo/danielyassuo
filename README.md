@@ -82,7 +82,7 @@
 
 ## 📂 Projects
 
-#Portuguese : 
+# PORTUGUESE :  
 # API de Gestão de Usuários
 
 API REST para cadastro, autenticação e gerenciamento de usuários, desenvolvida em **Java com Spring Boot**.
@@ -212,7 +212,7 @@ docker-compose up -d
 
 > Para o fluxo completo funcionar, os serviços de Usuários, Agendador de Tarefas e Notificação também precisam estar em execução.
 
-#English : 
+# ENGLISH : 
 
 # User Management API
 
